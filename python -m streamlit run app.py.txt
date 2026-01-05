@@ -1,0 +1,11 @@
+python -m streamlit run app.py
+
+subjects
+DSA
+Array,String, Linked List, Stack,Queue, Tree, BST, Graph, DP, Greedy, Backtraking, Sorting  Algo
+
+Development
+Complete Frontend, Backend and Databases as well as API's revision
+
+Core Computer Science Subejcts
+Operating Systems (OS), Database Management Systems (DBMS), SQL, Computer Networks (CN), OOP – Object-Oriented Programming, Software Engineering (SE)
