@@ -7,13 +7,6 @@ This project represents the **working, deployed implementation** of the broader 
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **Live Application:**  
-https://studyalpha-ai-agent-muwkpf3edkao3iva87sxgp.streamlit.app
-
----
-
 ## 🚀 Problem Statement
 
 Students often struggle not because of lack of resources, but because they lack:
@@ -49,56 +42,10 @@ The logic is **deterministic, explainable, and planner-driven**, similar to how 
 
 ---
 
-## 📊 Core Planning Logic
-
-# 📘 Study Alpha – Focused Learning Planner
-
-A study assistance application that helps students **plan, track, and adapt** their learning for both **exam-focused preparation** and **daily consistency-based study**.  
-The system builds an adaptive study schedule based on available time, tracks actual study effort, redistributes remaining workload dynamically, and highlights what to study next.
-
-This project represents the **working, deployed implementation** of the broader **StudyAlpha AI vision**, focused on **real usability and explainable planning logic**.
-
----
-
 ## 🌐 Live Demo
 
 🔗 **Live Application:**  
 https://studyalpha-ai-agent-muwkpf3edkao3iva87sxgp.streamlit.app
-
----
-
-## 🚀 Problem Statement
-
-Students often struggle not because of lack of resources, but because they lack:
-
-- Clear direction on what to study today.
-- Visibility into remaining syllabus and effort.
-- Adaptive schedules when progress changes.
-- Identification of weak or lagging topics.
-- Realistic time management.
-
-Most tools either provide static timetables or simply answer questions.  
-They **do not adapt** as learning progresses.
-
-**Study Alpha – Focused Learning Planner** solves this by acting as a **living, adaptive study plan**.
-
----
-
-## 🧠 How It Works (High-Level)
-
-- User enters **exam date** and **daily study hours**.
-- User adds **subjects and their topics**.
-- The system calculates **remaining days** and **total available study time**.
-- An initial **topic-wise study plan** is generated.
-- User logs **actual study effort** per topic.
-- Remaining workload is recalculated automatically.
-- Pending topics receive **redistributed time**.
-- The system highlights:
-  - Daily study focus.
-  - Weak or incomplete topics.
-  - Urgency based on remaining time.
-
-The logic is **deterministic, explainable, and planner-driven**, similar to how a real human study coach adapts plans.
 
 ---
 
@@ -115,29 +62,6 @@ Remaining hours are recalculated.
 Time is redistributed only among pending topics.
 
 This ensures the evaluation is **effort-aware**, not static.
-
----
-
-## 🖥️ Application Flow
-
-- Enter exam date and daily study hours.
-- Add subjects and their topics.
-- Generate the initial study plan.
-- Log study progress per topic.
-- View:
-  - Completed vs remaining effort.
-  - Updated time distribution.
-  - Next recommended focus areas.
-
----
-
-## 🛠️ Tech Stack
-
-- **Python**
-- **Streamlit** – UI and application flow.
-- **Pandas** – Data handling, progress tracking, and analysis.
-
-No paid APIs or external AI services are required.
 
 ---
 
@@ -233,4 +157,5 @@ This project demonstrates:
 - Adaptive planning without over-claiming AI.
 - Explainable and deterministic system design.
 - End-to-end product thinking, not just scripts.
+
 
