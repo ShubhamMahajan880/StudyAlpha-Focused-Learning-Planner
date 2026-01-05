@@ -141,13 +141,6 @@ No paid APIs or external AI services are required.
 
 ---
 
-## 📂 Project Structure
-
-
-This ensures the evaluation is **effort-aware**, not static.
-
----
-
 ## 🖥️ Application Flow
 
 - Enter exam date and daily study hours.
@@ -191,7 +184,6 @@ StudyAlpha-Focused-Learning-Planner/
 
 ## ▶️ Run Locally
 
-```bash
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
@@ -241,3 +233,4 @@ This project demonstrates:
 - Adaptive planning without over-claiming AI.
 - Explainable and deterministic system design.
 - End-to-end product thinking, not just scripts.
+
