@@ -98,10 +98,11 @@ StudyAlpha-Focused-Learning-Planner/
 ├── .gitignore
 │
 └── src/
-├── planner.py
-├── rebalancer.py
-├── evaluator.py
-└── recommender.py
+    ├── planner.py
+    ├── rebalancer.py
+    ├── evaluator.py
+    └── recommender.py
+
 
 
 ---
@@ -157,5 +158,6 @@ This project demonstrates:
 - Adaptive planning without over-claiming AI.
 - Explainable and deterministic system design.
 - End-to-end product thinking, not just scripts.
+
 
 
