@@ -200,52 +200,44 @@ streamlit run app.py
 http://localhost:8501
 
 
-🌐 Deployment
+## 🌐 Deployment
 
-Platform: Streamlit Cloud
+- **Platform:** Streamlit Cloud  
+- **Entry file:** app.py  
+- **Auto-deploy:** On every push to `main`
 
-Entry file: app.py
-
-Auto-deploy: On every push to main
-
-🔗 Live App:
+🔗 **Live App:**  
 https://studyalpha-ai-agent-muwkpf3edkao3iva87sxgp.streamlit.app
 
-🔮 Future Enhancements
+---
 
-Agent-based orchestration.
+## 🔮 Future Enhancements
 
-ML-driven weakness prediction.
+- Agent-based orchestration.
+- ML-driven weakness prediction.
+- Memory-aware revision scheduling.
+- Quiz and evaluation agents.
+- Long-term spaced repetition.
+- Persistent analytics dashboards.
 
-Memory-aware revision scheduling.
+---
 
-Quiz and evaluation agents.
+## 👤 Author & Ownership
 
-Long-term spaced repetition.
+This project is designed, developed, and maintained by **Shubham Mahajan**.
 
-Persistent analytics dashboards.
+- GitHub: https://github.com/ShubhamMahajan880  
+- LinkedIn: https://www.linkedin.com/in/shubham-mahajan-2a9a47220/
 
-👤 Author & Ownership
+The application represents **original work** and includes clear ownership attribution.
 
-This project is designed, developed, and maintained by Shubham Mahajan.
+---
 
-GitHub: https://github.com/ShubhamMahajan880
-
-LinkedIn: https://www.linkedin.com/in/shubham-mahajan-2a9a47220/
-
-The application represents original work and includes clear ownership attribution.
-
-⭐ Why This Project Matters
+## ⭐ Why This Project Matters
 
 This project demonstrates:
 
-Practical problem-solving for real student challenges.
-
-Adaptive planning without over-claiming AI.
-
-Explainable and deterministic system design.
-
-End-to-end product thinking, not just scripts.
-
-
-    
+- Practical problem-solving for real student challenges.
+- Adaptive planning without over-claiming AI.
+- Explainable and deterministic system design.
+- End-to-end product thinking, not just scripts.
