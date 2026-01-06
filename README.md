@@ -1,11 +1,19 @@
 # 📘 Study Alpha – Focused Learning Planner
 
-A study assistance application that helps students **plan, track, and adapt** their learning for both **exam-focused preparation** and **daily consistency-based study**.  
-The system builds an adaptive study schedule based on available time, tracks actual study effort, redistributes remaining workload dynamically, and highlights what to study next.
+A study assistance application designed to help students **plan, track, and adapt** their learning for both **exam-focused preparation** and **daily consistency-based study**.  
+The system creates an adaptive study schedule based on available time, tracks actual study effort, dynamically redistributes remaining workload, and highlights the next priority topics.
 
-This project represents the **working, deployed implementation** of the broader **StudyAlpha AI vision**, focused on **real usability and explainable planning logic**.
+This project represents a **working, deployed implementation** of the broader **StudyAlpha AI vision**, with a strong focus on **real-world usability and explainable planning logic**.
+
+## 📄 Project Proposal
+
+The complete project proposal, including the problem statement, system design, and implementation approach, is available at the link below:
+
+🔗 **StudyAlpha – AI Agent (Full Proposal)**  
+https://github.com/ShubhamMahajan880/studyAlpha-Ai-Agent
 
 ---
+
 
 ## 🚀 Problem Statement
 
@@ -158,6 +166,7 @@ This project demonstrates:
 - Adaptive planning without over-claiming AI.
 - Explainable and deterministic system design.
 - End-to-end product thinking, not just scripts.
+
 
 
 
